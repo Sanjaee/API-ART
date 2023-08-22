@@ -1,0 +1,16 @@
+.search-bar {
+  border: 1px solid rgb(26, 26, 26);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.search-bar form {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.L {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: medium;
+}
